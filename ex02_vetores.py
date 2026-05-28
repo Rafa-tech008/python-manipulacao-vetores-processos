@@ -30,7 +30,7 @@ def main ():
     vet = []
     numero: int = 0
 
-    for i in range (0, 100):
+    for i in range (100):
         numero = random.randint (0,150)
         vet.append (numero)
 
